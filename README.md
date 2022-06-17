@@ -1,2 +1,2 @@
 # VerletSimulation
-Physics simulation using verlet integration
+Physics simulation in python using verlet integration
